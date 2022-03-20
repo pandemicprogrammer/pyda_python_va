@@ -1,4 +1,3 @@
-# pyda_python_va
 
 # Go to https://www.wolframalpha.com/
 # Register an account
